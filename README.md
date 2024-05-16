@@ -1,31 +1,4 @@
-ProfileMe.dev
 
-
-INTRODUCTION
-SKILLS
-SOCIALS
-BADGES
-SUPPORT
-Go home
-© 2024 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Support
-Make it easy for people using your products to support you or give donations.
-
-Previous section
-buymeacoffee
-BUY ME A COFFEE:
-yourname
-kofi
-BUY ME A COFFEE:
-yourname
-Previous section
-PREVIEW
-MARKDOWN
-COPY
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Worachet Uttha
 ======================================================================================================================================
 
@@ -46,6 +19,7 @@ Web Developer & Lecturer @ Software Engineering Program, Science and Technology 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Wuttha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
